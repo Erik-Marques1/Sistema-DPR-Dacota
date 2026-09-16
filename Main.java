@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 
     // Corrige as informações antes de salvar
-    public static void corrigirDPR(dpr dpr1, Scanner scanner, String[] cabos) {
+    public static void corrigirDPR(Dpr dpr1, Scanner scanner, String[] cabos) {
 
         int opcao;
 
@@ -485,7 +485,7 @@ import java.util.Scanner;
 
 
             // POLIMORFISMO
-            dpr dpr1;
+            Dpr dpr1;
 
 
             if (
