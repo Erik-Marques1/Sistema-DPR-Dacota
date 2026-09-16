@@ -1,4 +1,4 @@
-public class DprComLoteAnterior extends dpr {
+public class DprComLoteAnterior extends Dpr {
 
         // Atributo exclusivo da classe filha
         private String loteAnterior;
