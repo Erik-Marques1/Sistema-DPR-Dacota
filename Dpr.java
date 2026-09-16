@@ -1,4 +1,4 @@
-public class dpr {
+public class Dpr {
 
     // ATRIBUTOS
     private String lote;
@@ -17,7 +17,7 @@ public class dpr {
 
 
     // CONSTRUTOR
-    public dpr(
+    public Dpr(
             String lote,
             String materiaPrima,
             String produto,
